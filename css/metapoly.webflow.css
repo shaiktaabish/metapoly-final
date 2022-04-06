@@ -1073,7 +1073,7 @@
   display: -ms-flexbox;
   display: flex;
   width: 100%;
-  max-width: 562.11px;
+  max-width: 350px;
   margin-right: auto;
   margin-left: auto;
   -webkit-box-pack: justify;
@@ -1563,10 +1563,7 @@
 }
 
 .timer-wrap {
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
+  display: none;
   width: 100%;
   max-width: 442px;
   margin-right: auto;
